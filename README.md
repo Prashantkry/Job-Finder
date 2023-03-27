@@ -5,11 +5,12 @@
    - Now visit the link in the about section of the repository from your browser.
    - Scan the QR code using the Expo app. -->
 
-
+<!-- 
 # Demo Video
 
+https://user-images.githubusercontent.com/61798906/227284231-ff6d98c2-8793-42f4-907c-5216e81e6cf5.mp4
 
-https://github.com/Prashantkry/Job-Finder/blob/main/demo%20pic/video.mp4
+https://github.com/Prashantkry/Job-Finder/blob/main/demo%20pic/video.mp4 -->
 
 
 
