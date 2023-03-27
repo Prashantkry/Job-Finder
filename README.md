@@ -1,15 +1,34 @@
-# Expo Router Example
+# Job-Finder
+# For any doubts or issues refer to the README.md or email me at prashantkry745@gmail.com
+<!-- - For using the application on your mobile:
+   - Download Expo app on your device.
+   - Now visit the link in the about section of the repository from your browser.
+   - Scan the QR code using the Expo app. -->
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
 
-## 🚀 How to use
+# Demo Video
 
-```sh
-npx create-react-native-app -t with-router
-```
 
-## 📝 Notes
+https://github.com/Prashantkry/Job-Finder/blob/main/demo%20pic/video.mp4
 
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
-- [Request for Comments](https://github.com/expo/router/discussions/1)
+
+
+# Demo Pictures
+
+<p float="left">
+<img src="https://github.com/Prashantkry/Job-Finder/blob/main/demo%20pic/Screenshot_2023-03-27-19-32-33-284_host.exp.exponent.jpg" width=200>
+<img src="https://github.com/Prashantkry/Job-Finder/blob/main/demo%20pic/Screenshot_2023-03-27-19-31-31-223_host.exp.exponent.jpg" width=200>
+<img src="https://github.com/Prashantkry/Job-Finder/blob/main/demo%20pic/Screenshot_2023-03-27-19-32-41-981_host.exp.exponent.jpg" width=200>
+<img src="https://github.com/Prashantkry/Job-Finder/blob/main/demo%20pic/Screenshot_2023-03-27-19-32-12-819_host.exp.exponent.jpg" width=200>
+<img src="https://github.com/Prashantkry/Job-Finder/blob/main/demo%20pic/Screenshot_2023-03-27-19-32-03-593_host.exp.exponent.jpg" width=200>
+<img src="https://github.com/Prashantkry/Job-Finder/blob/main/demo%20pic/Screenshot_2023-03-27-19-32-16-970_host.exp.exponent.jpg" width=200>
+<img src="https://github.com/Prashantkry/Job-Finder/blob/main/demo%20pic/Screenshot_2023-03-27-19-32-20-350_host.exp.exponent.jpg" width=200>
+<img src="https://github.com/Prashantkry/Job-Finder/blob/main/demo%20pic/Screenshot_2023-03-27-19-31-42-267_host.exp.exponent.jpg" width=200>
+<img src="https://github.com/Prashantkry/Job-Finder/blob/main/demo%20pic/Screenshot_2023-03-27-19-31-45-869_host.exp.exponent.jpg" width=200>
+<img src="https://github.com/Prashantkry/Job-Finder/blob/main/demo%20pic/Screenshot_2023-03-27-19-31-54-731_host.exp.exponent.jpg" width=200>
+<img src="https://github.com/Prashantkry/Job-Finder/blob/main/demo%20pic/Screenshot_2023-03-27-19-32-58-694_host.exp.exponent.jpg" width=200>
+<img src="https://github.com/Prashantkry/Job-Finder/blob/main/demo%20pic/Screenshot_2023-03-27-19-33-12-902_host.exp.exponent.jpg" width=200>
+<img src="https://github.com/Prashantkry/Job-Finder/blob/main/demo%20pic/Screenshot_2023-03-27-19-33-16-934_host.exp.exponent.jpg" width=200>
+</p>
+
+
